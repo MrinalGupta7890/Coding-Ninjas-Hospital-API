@@ -11,10 +11,6 @@ API for the Covid hospital for doctors, patients and reports.
 6.  JWT
 
 
-## When Running in Local System
- run the the code in postman with corresponding routes and data
-
-
 ##### Installing NPM dependencies
 
 `npm install`
@@ -22,6 +18,9 @@ API for the Covid hospital for doctors, patients and reports.
 ##### Then simply start your app
 
 `npm start`
+
+## When Running in Local System
+ run the the code in postman with corresponding routes and data
 
 
 ## Folder Structure
